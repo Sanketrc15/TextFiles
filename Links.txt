@@ -4,3 +4,8 @@
 ....
 .....
 https://towardsdatascience.com/machine-learning-basics-with-the-k-nearest-neighbors-algorithm-6a6e71d01761
+https://www.saedsayad.com/k_nearest_neighbors.htm
+
+https://medium.com/machine-learning-101/chapter-2-svm-support-vector-machine-theory-f0812effc72
+https://towardsdatascience.com/introduction-to-machine-learning-algorithms-linear-regression-14c4e325882a
+https://hackernoon.com/introduction-to-machine-learning-algorithms-logistic-regression-cbdd82d81a36
